@@ -1,0 +1,24 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/8200622/labs/labs.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_cybercobra.v,1680267227,verilog,,,,tb_CYBERcobra,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_data_mem.v,1679050566,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_riscv.v,,tb_data_mem8,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_fulladder1.v,1676632549,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_fulladder32.v,,tb_fulladder,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_fulladder32.v,1676634879,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_miriscv_alu.v,,tb_fulladder32,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_instr_mem.v,1679049109,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_data_mem.v,,instr_mem_ref8;tb_instr_mem,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_miriscv_alu.v,1677843301,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_instr_mem.v,C:/Users/8200622/labs/labs.srcs/sources_1/new/defines_riscv.v,tb_miriscv_alu,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_riscv.v,1679052359,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_cybercobra.v,,register_file_ref;tb_rf_riscv,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/ALU.v,1677843298,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/nexys_alu.v,C:/Users/8200622/labs/labs.srcs/sources_1/new/defines_riscv.v,alu_riscv,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/CYBERcobra.v,1680269452,verilog,,C:/Users/8200622/labs/labs.srcs/sim_1/new/tb_fulladder1.v,,CYBERcobra,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/data_mem.v,1679050948,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/rf_riscv.v,,data_mem,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/defines_riscv.v,1677838962,verilog,,,,,,,,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/fulladder.v,1676633039,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/fulladder4.v,,fulladder,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/fulladder32.v,1676634881,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/nexys_adder.v,,fulladder32,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/fulladder4.v,1676633580,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/fulladder32.v,,fulladder4,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/instr_mem.v,1680269614,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/data_mem.v,,instr_mem,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/nexys_adder.v,1676635526,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/ALU.v,,nexys_adder,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/nexys_alu.v,1677844003,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/instr_mem.v,,nexys_alu,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/nexys_rf_riscv.v,1679052757,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/CYBERcobra.v,,nexys_rf_riscv,,,../../../../labs.srcs/sources_1/new,,,,,
+C:/Users/8200622/labs/labs.srcs/sources_1/new/rf_riscv.v,1679052464,verilog,,C:/Users/8200622/labs/labs.srcs/sources_1/new/nexys_rf_riscv.v,,rf_riscv,,,../../../../labs.srcs/sources_1/new,,,,,
